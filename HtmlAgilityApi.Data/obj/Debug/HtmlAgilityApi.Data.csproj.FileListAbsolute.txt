@@ -1,0 +1,10 @@
+C:\Users\pala\Desktop\Ekol Staj 2019\HtmlAgilityApi\HtmlAgilityApi.Data\bin\Debug\HtmlAgilityApi.Data.dll
+C:\Users\pala\Desktop\Ekol Staj 2019\HtmlAgilityApi\HtmlAgilityApi.Data\bin\Debug\HtmlAgilityApi.Data.pdb
+C:\Users\pala\Desktop\Ekol Staj 2019\HtmlAgilityApi\HtmlAgilityApi.Data\obj\Debug\HtmlAgilityApi.Data.csprojAssemblyReference.cache
+C:\Users\pala\Desktop\Ekol Staj 2019\HtmlAgilityApi\HtmlAgilityApi.Data\obj\Debug\HtmlAgilityApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\pala\Desktop\Ekol Staj 2019\HtmlAgilityApi\HtmlAgilityApi.Data\obj\Debug\HtmlAgilityApi.Data.dll
+C:\Users\pala\Desktop\Ekol Staj 2019\HtmlAgilityApi\HtmlAgilityApi.Data\obj\Debug\HtmlAgilityApi.Data.pdb
+C:\Users\pala\Desktop\Ekol Staj 2019\HtmlAgilityApi\HtmlAgilityApi.Data\bin\Debug\HtmlAgilityPack.dll
+C:\Users\pala\Desktop\Ekol Staj 2019\HtmlAgilityApi\HtmlAgilityApi.Data\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\pala\Desktop\Ekol Staj 2019\HtmlAgilityApi\HtmlAgilityApi.Data\bin\Debug\HtmlAgilityPack.xml
+C:\Users\pala\Desktop\Ekol Staj 2019\HtmlAgilityApi\HtmlAgilityApi.Data\obj\Debug\HtmlAgilityApi.Data.csproj.CopyComplete
